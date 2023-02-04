@@ -1,0 +1,15 @@
+[
+  {
+    "DisplayName": "Main File",
+    "Category": "Loader Settings",
+    "Description": "Name of file the loader should start after downloading pip modules.",
+    "Keywords": "loader,python,file",
+    "FieldName": "file",
+    "InputType": "text",
+    "IsFlagArgument": false,
+    "ParamFieldName": "file",
+    "IncludeInCommandLine": false,
+    "DefaultValue": "main",
+    "Placeholder": "main"
+  }
+]
